@@ -1,0 +1,11 @@
+# / .gitignore
+
+# База данных
+database.db
+database.db-journal
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/

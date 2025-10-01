@@ -1,0 +1,10 @@
+# /requirements.txt
+
+fastapi
+uvicorn
+aiogram>=3.4.0
+aiosqlite
+aiocryptopay
+fragment-api-lib
+cachetools
+AsyncPayments
